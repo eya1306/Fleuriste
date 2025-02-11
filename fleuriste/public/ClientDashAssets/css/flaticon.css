@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -41,4 +41,4 @@
 .flaticon-award:before { content: "\f102"; }
 .flaticon-customer-service:before { content: "\f103"; }
 .flaticon-salad:before { content: "\f104"; }
-.flaticon-diet:before { content: "\f105"; }
+.flaticon-flower:before { content: "\f400"; }
